@@ -36,5 +36,5 @@ In the "Saber_single.py" script you will find how to treat a single SABER orbit.
 
 In the "Saber.py" script you will find see how to read a complete day and extract a list with all the data. You will also be able to see it plotted around the globe. After this, a 3 standard deviation is done to know the minimum and the maximum values of the range. At the end of the script where the "TODO" tag is, is where the work as been left. I have written down the formula explaining what is each variable in the "Pancheva_formula.jpg" image.
 
-<img src="./Pancheva_formula.jpg" width="400">
+<img src="./Pancheva_formula.jpg" width="100%">
 
