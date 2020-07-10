@@ -5,7 +5,9 @@ This work can produce many publications, so it's not so important how fast you g
 
 To download data:
 There are two ways of downloading the data:
+
 •	Having one connection downaloading all at once. But it would take over a month to do it. 
+
 •	Taking into account that you cant have more than two simultanous connections, my recomendation is to download it by years. You can use different servers at the same time. (The web server and Lancelot at the same time). Downloading 4 years at a time.  
 Example: wget -r ftp://anonymous:@saber.gats-inc.com/Version2_0/Level2A/2003
 
@@ -21,7 +23,9 @@ The objective of this work is the following:
 •	Extract the OH and O2(1Delta) tidal fields using the same method  and see the spatial distribution and seasonal variability of the three strongest nonmigrating OH and O2(1Delta)  tidal variabilities, i.e., SW3, DW2, and DE3, and compare them with the O3 tidal variabilities.   (FOR OH WE WILL HAVE  RADIANCES; FOR O3 WE WILL HAVE RADIANCES AND O3)
 
 To get a sense of what has to be done you have to read the following two papers:
+
 •	https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL059844 - In this paper you have to read it in general to get to know the idea of what we want to do. Focus on points 1 & 2, to understand the methodology and the data in which you are interested in.
+
 •	https://www.sciencedirect.com/science/article/pii/S1364682608002691?via%3Dihub - In this paper is where the actual methodology and formulation it is explained. Focus on points 1 (similar to point 1 in the previous paper), 2 and 3 (this point is where you find the formula to extract the tides) are interesting for the methodology.
 
 
