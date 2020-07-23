@@ -5,9 +5,9 @@ This work can produce many publications, so it's not so important how fast you g
 
 There are two ways of downloading the data:
 
-* Having one connection downaloading all at once. But it would take over a month to do it. 
+* Having one connection downloading all at once. But it would take over a month to do it. 
 
-* Taking into account that you cant have more than two simultanous connections, my recomendation is to download it by years. You can use different servers at the same time. (The web server and Lancelot at the same time). Downloading 4 years at a time.  
+* Taking into account that you can't have more than two simultanous connections, my recomendation is to download it by years. You can use different servers at the same time. (The web server and Lancelot at the same time). Downloading 4 years at a time.  
 Example: wget -r ftp://anonymous:@saber.gats-inc.com/Version2_0/Level2A/2003
 
 Page to know about SABER: http://saber.gats-inc.com/
